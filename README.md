@@ -6,6 +6,9 @@
 
  Please check this app using VPN(fake ip) to have IP in Vietnam and you need to have a tester who knows Vietnamese.
 
+apk download:
+https://drive.google.com/drive/folders/1-h_QtxhJvDrwddsLUXZ1VQiO8Sfy-Y53?usp=sharing
+
 Note that there must be an IP address in Vietnam and the tester is also Vietnamese (or know how to speak Vietnamese)
 
 IP Vietnam will not have paid Google: 
