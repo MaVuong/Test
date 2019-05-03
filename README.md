@@ -17,3 +17,4 @@ IP Vietnam will not have paid Google:
 https://youtu.be/zsEl9wxyD-0
 
 Thank you!
+https://support.google.com/googleplay/android-developer/answer/6230247?hl=vi
