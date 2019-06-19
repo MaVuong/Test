@@ -18,3 +18,9 @@ https://youtu.be/zsEl9wxyD-0
 
 Thank you!
 https://support.google.com/googleplay/android-developer/answer/6230247?hl=vi
+
+
+document.getElementById("inputProductName").value="Ấm Đun Nước Siêu Tốc Bằng Inox Không Gỉ";
+        document.getElementById("inputProductCode").value="AmnuocInox";
+        document.getElementById("inputvolume").value="400";
+        window.frames[0].document.body.innerHTML=clipText;
