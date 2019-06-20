@@ -12,7 +12,8 @@ https://drive.google.com/drive/folders/1HGmH0y5-zuK7yhPdwZTYQVQVtrmWt09t?usp=sha
 
 Note that there must be an IP address in Vietnam and the tester is also Vietnamese (or know how to speak Vietnamese)
 
-IP Vietnam will not have paid Google: 
+
+Word Crossy 2019- Crossword Jam:Free  Word Connect
 
 https://youtu.be/zsEl9wxyD-0
 
