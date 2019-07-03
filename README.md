@@ -25,3 +25,6 @@ document.getElementById("inputProductName").value="Ấm Đun Nước Siêu Tốc
         document.getElementById("inputProductCode").value="AmnuocInox";
         document.getElementById("inputvolume").value="400";
         window.frames[0].document.body.innerHTML=clipText;
+
+sondevios
+Huong1992!@#
